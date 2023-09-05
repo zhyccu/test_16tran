@@ -1,0 +1,12 @@
+[submodule "CoastalApp/NEMS"]
+	path = CoastalApp/NEMS
+	url = https://github.com/zhyccu25/NEMS
+[submodule "CoastalApp/NWM"]
+	path = CoastalApp/NWM
+	url = https://github.com/zhyccu25/nwm_public_nuopc
+[submodule "CoastalApp/SCHISM/schism"]
+	path = CoastalApp/SCHISM/schism
+	url = https://github.com/zhyccu25/schism
+[submodule "CoastalApp/SCHISM/schism-esmf"]
+	path = CoastalApp/SCHISM/schism-esmf
+	url = https://github.com/zhyccu25/schism-esmf
